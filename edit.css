@@ -1,13 +1,13 @@
 .edit .controller.ds4 {
-    background: url(https://github.com/cstaier/cstaier.github.io/blob/main/skins/base-custom.png);
+    background: url(https://i.imgur.com/nLlOT6E.png);
 }
 
 
 .controller.edit {
-    background: url(https://github.com/cstaier/cstaier.github.io/blob/main/skins/base-custom.png);
+    background: url(https://i.imgur.com/nLlOT6E.png);
 }
 
-
+/*
 .edit .face .ds4 {
     background: url(https://github.com/cstaier/cstaier.github.io/blob/main/skins/dpad-custom.png);
 }
@@ -27,4 +27,4 @@
 .edit .stick {
     position: absolute;
     background: url(https://github.com/cstaier/cstaier.github.io/blob/main/skins/sticks-custom.png);
-}
+} */
