@@ -1,30 +1,30 @@
 .edit .controller.ds4 {
-    background: url(https://github.io/cstaier/GPV_CustomController/blob/main/base.png);
+    background: url(https://github.com/cstaier/GPV_CustomController/blob/main/base.png);
 }
 
 
 .controller.edit {
-    background: url(https://github.io/cstaier/GPV_CustomController/blob/main/base.png);
+    background: url(https://github.com/cstaier/GPV_CustomController/blob/main/base.png);
 }
 
 
 .edit .face .ds4 {
-    background: url(https://github.io/cstaier/GPV_CustomController/blob/main/dpad.png);
+    background: url(https://github.com/cstaier/GPV_CustomController/blob/main/dpad.png);
 }
 
 
 .edit .face {
     position: absolute;
-    background: url(https://github.io/cstaier/GPV_CustomController/blob/main/dpad.png);
+    background: url(https://github.com/cstaier/GPV_CustomController/blob/main/dpad.png);
 }
 
 
 .edit .stick .ds4 {
-    background: url(https://github.io/cstaier/GPV_CustomController/blob/main/sticks.png);
+    background: url(https://github.com/cstaier/GPV_CustomController/blob/main/sticks.png);
 }
 
 
 .edit .stick {
     position: absolute;
-    background: url(https://github.io/cstaier/GPV_CustomController/blob/main/sticks.png);
+    background: url(https://github.com/cstaier/GPV_CustomController/blob/main/sticks.png);
 }
